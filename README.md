@@ -53,7 +53,7 @@ Glucose: glucose level (Continuous) Predict variable (desired target) 10-year ri
 
 ### Imbalance Dataset
 
-I noticed that most of data is labelled as 0(having risk of coronary heart disease) about 90% and very few data is labelled as 1(don't have coronary heart disease). This means that their high <b> class imbalance </b>  for  solving this problem we having a technique called <b> SMOTE Technique </b> which created random samples to over come the class imbalance.
+I noticed that most of data is labelled as 0(don't having risk of coronary heart disease) about 90% and very few data is labelled as 1(having coronary heart disease). This means that their high <b> class imbalance </b>  for  solving this problem we having a technique called <b> SMOTE Technique </b> which created random samples to over come the class imbalance.
 
 
 ### Best Performing Algorithms
